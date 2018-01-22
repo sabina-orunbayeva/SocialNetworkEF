@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\bin\Debug\SocialNetworkEF.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\bin\Debug\SocialNetworkEF.exe
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\bin\Debug\SocialNetworkEF.pdb
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\bin\Debug\EntityFramework.dll
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\bin\Debug\EntityFramework.xml
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\obj\Debug\SocialNetworkEF.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\obj\Debug\SocialNetworkEF.exe
+c:\users\hp\documents\visual studio 2017\Projects\SocialNetworkEF\SocialNetworkEF\obj\Debug\SocialNetworkEF.pdb
